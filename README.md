@@ -1,2 +1,2 @@
 # sample_calendar
-a sample calendar 
+an sample calendar using html and css.
