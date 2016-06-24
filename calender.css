@@ -1,0 +1,46 @@
+.calender {
+    border: 1px solid seagreen;
+    border-collapse: collapse;
+    height: 500px;
+    width: 400px;
+}
+
+.calender.title {
+    height: 10%;
+    font-size: 30px;
+    text-align: center;
+}
+
+.calender.title.title * {
+    display: inline;
+    border: none;
+}
+
+.calender.title.title-button {
+    color: slateblue;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+.calender.note {
+    height: 20%;
+    font-size: 20px;
+}
+
+.calender.table {
+    height: 70%;
+}
+
+.calender.td {
+    height: 15%;
+    background-color: aqua;
+}
+
+.calender.td.today {
+    background-color: beige;
+}
+
+.calender.td.disable {
+    background-color: gray;
+}
+
